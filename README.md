@@ -46,5 +46,3 @@ Apa itu tools OSINT OwlTrack?
 ---
 
 © 2026 IccTeam – OwlTrack Intelligence System  
-#izin
-
