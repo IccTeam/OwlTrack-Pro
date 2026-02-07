@@ -1,5 +1,4 @@
-# OwlTrack-Pro
-# 🦉 OwlTrack – OSINT Intelligence Toolkit
+# 🦉 OwlTrack Pro – OSINT Intelligence Investigation
 
 > Advanced OSINT Tools for Digital Investigation & Cyber Intelligence
 
