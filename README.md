@@ -32,6 +32,20 @@ Dapatkan akses penuh ke fitur premium dan tools OSINT terbaik.
 
 ---
 
+## 📊 Result – GetContact Lookup
+
+Berikut adalah contoh hasil pencarian data menggunakan fitur **GetContact Intelligence Module** pada OwlTrack Pro.
+
+> 📌 Data ditampilkan untuk keperluan investigasi & OSINT research.
+
+### 🔎 Sample Result
+
+
+![1001165528](https://github.com/user-attachments/assets/a264b38d-8cdc-40c4-bf5a-76af7240acd8)
+
+
+---
+
 ## 🤝 Special Thanks
 
 Thanks to ViewTech (OFC)  
@@ -47,4 +61,4 @@ Apa itu tools OSINT OwlTrack?
 
 ---
 
-© 2026 IccTeam – OwlTrack Intelligence System  
+© 2026 IccTeam – OwlTrack Intelligence System
