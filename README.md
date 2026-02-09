@@ -23,7 +23,7 @@ Dapatkan akses penuh ke fitur premium dan tools OSINT terbaik.
 
 | Durasi | Harga (IDR) | Keterangan |
 |--------|------------|------------|
-| ⚡ 1 Hari | 15K | Akses Cepat |
+| ⚡ 1 Hari | 20K | Akses Cepat |
 | 🛡️ 1 Minggu | 45K | Lebih Hemat |
 | 🔮 1 Bulan | 110K | Promo Terbatas |
 | 🗓️ 1 Tahun | 380K | Best Value |
