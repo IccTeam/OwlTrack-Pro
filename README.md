@@ -32,7 +32,8 @@ Dapatkan akses penuh ke fitur premium dan tools OSINT terbaik.
 
 ---
 
-# 📊 Result – OwlTrack Modules
+<details open>
+  <summary><strong> 📊 Result – OwlTrack Modules </strong></summary>
 
 Berikut adalah contoh hasil dari masing-masing modul OwlTrack Pro.
 
@@ -103,7 +104,7 @@ Berikut adalah contoh hasil pencarian data menggunakan fitur **GetContact Intell
 ### 🔎 Sample Result
 
 ![1001165528](https://github.com/user-attachments/assets/53f619f1-df13-4e0c-b48c-88ba0c55292b)
-
+  </details>
 ---
 
 ## 🤝 Special Thanks
