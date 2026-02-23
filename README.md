@@ -1,8 +1,9 @@
 ![1001182860](https://github.com/user-attachments/assets/71732277-e30d-4f47-842d-12e705857ddc)
 # 🦉 OwlTrack Pro – OSINT Intelligence Investigation
-
+### 👨‍💻 Created By
+**Mr.OwlBird05 / Abid .Z**  
+Founder & Developer of OwlTrack Intelligence System
 > Advanced OSINT Tools for Digital Investigation & Cyber Intelligence
-
 ---
 
 ## 🔗 Official Links
