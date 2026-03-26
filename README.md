@@ -27,7 +27,7 @@ Dapatkan akses penuh ke fitur premium dan tools OSINT terbaik.
 | 🔥 3 Hari | 30K | Lebih Hemat |
 | 🛡️ 1 Minggu | 80K | Best Weekly Deal |
 | 🔮 1 Bulan | 180K | Promo Terbatas |
-| 🗓️ 1 Tahun | 380K | ⭐ Termasuk Bonus Premium |
+| 🗓️ 1 Tahun | 330K | ⭐ Termasuk Bonus Premium |
 | 🗓️ 2 Tahun | 450K | Long Term |
 | 🏷️ 3 Tahun | 400K | Super Promo |
 
