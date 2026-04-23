@@ -35,7 +35,7 @@ Dapatkan akses penuh ke fitur premium dan tools OSINT terbaik.
 
 ---
 
-## 🎁 Bonus Spesial Paket 1 Tahun
+## 🎁 Bonus Spesial Paket Per Tahun
 
 Khusus pembelian paket **PER TAHUN**, kamu akan mendapatkan:
 
