@@ -21,21 +21,23 @@ Founder & Developer of OwlTrack Intelligence System
 
 Dapatkan akses penuh ke fitur premium dan tools OSINT terbaik.
 
-| Durasi | Harga (IDR) | Keterangan |
-|--------|------------|------------|
-| ⚡ 1 Hari | 25K | Akses Cepat |
-| 🔥 3 Hari | 40K | Lebih Hemat |
-| 🛡️ 1 Minggu | 80K | Best Weekly Deal |
-| 🔮 1 Bulan | 180K | Promo Terbatas |
-| 🗓️ 1 Tahun | 330K | ⭐ Termasuk Bonus Premium |
-| 🗓️ 2 Tahun | 450K | Long Term |
-| 🏷️ 3 Tahun | 400K | Super Promo |
+> *Kurs estimasi: Rp15.500/USD (dapat berubah sewaktu-waktu)*
+
+| Durasi | Harga (IDR) | Harga (USD) | Keterangan |
+|--------|------------|-------------|------------|
+| ⚡ 1 Hari | 25K | ~$1.6 | Akses Cepat |
+| 🔥 3 Hari | 40K | ~$2.6 | Lebih Hemat |
+| 🛡️ 1 Minggu | 80K | ~$5.2 | Best Weekly Deal |
+| 🔮 1 Bulan | 180K | ~$11.6 | Promo Terbatas |
+| 🗓️ 1 Tahun | 330K | ~$21.3 | ⭐ Termasuk Bonus Premium |
+| 🗓️ 2 Tahun | 450K | ~$29.0 | Long Term |
+| 🏷️ 3 Tahun | 400K | ~$25.8 | Super Promo |
 
 ---
 
 ## 🎁 Bonus Spesial Paket 1 Tahun
 
-Khusus pembelian paket **1 Tahun**, kamu akan mendapatkan:
+Khusus pembelian paket **PER TAHUN**, kamu akan mendapatkan:
 
 - 🔑 Membership **OwlTrack Prem Tools**
 - 🤖 Akses **Bot Premium**
