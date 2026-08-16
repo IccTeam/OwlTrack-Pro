@@ -31,7 +31,7 @@ Dapatkan akses penuh ke fitur premium dan tools OSINT terbaik.
 | 🔮 1 Bulan | 180K | ~$12.0 | Promo Terbatas |
 | 🗓️ 1 Tahun | 330K | ~$22.0 | ⭐ Termasuk Bonus Premium |
 | 🗓️ 2 Tahun | 450K | ~$29.0 | Long Term |
-| 🏷️ 3 Tahun | 650K | ~$42.0 | Super Promo |
+| 🏷️ 3 Tahun | 650K | ~$42.0 | Super Long Term |
 
 ---
 
@@ -42,6 +42,7 @@ Khusus pembelian paket **PER TAHUN**, kamu akan mendapatkan:
 - 🔑 Membership **OwlTrack Prem Tools**
 - 🤖 Akses **Bot Premium** *(⚠️ Currently Under Maintenance)*
 - 🚀 Full Access **OwlTrack Pro**
+- 🔄 **Membership Full Update**
 
 > Paket paling worth it untuk penggunaan jangka panjang dan full fitur.
 
