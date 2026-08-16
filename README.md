@@ -24,14 +24,14 @@ Dapatkan akses penuh ke fitur premium dan tools OSINT terbaik.
 > *Kurs estimasi: Rp15.500/USD (dapat berubah sewaktu-waktu)*
 
 | Durasi | Harga (IDR) | Harga (USD) | Keterangan |
-|--------|------------|-------------|------------|
-| ⚡ 1 Hari | 25K | ~$1.6 | Akses Cepat |
-| 🔥 3 Hari | 40K | ~$2.6 | Lebih Hemat |
-| 🛡️ 1 Minggu | 80K | ~$5.2 | Best Weekly Deal |
-| 🔮 1 Bulan | 180K | ~$11.6 | Promo Terbatas |
-| 🗓️ 1 Tahun | 330K | ~$21.3 | ⭐ Termasuk Bonus Premium |
+|--------|-------------|-------------|------------|
+| ⚡ 1 Hari | 25K | ~$2.0 | Akses Cepat |
+| 🔥 3 Hari | 40K | ~$3.0 | Lebih Hemat |
+| 🛡️ 1 Minggu | 80K | ~$5.5 | Best Weekly Deal |
+| 🔮 1 Bulan | 180K | ~$12.0 | Promo Terbatas |
+| 🗓️ 1 Tahun | 330K | ~$22.0 | ⭐ Termasuk Bonus Premium |
 | 🗓️ 2 Tahun | 450K | ~$29.0 | Long Term |
-| 🏷️ 3 Tahun | 400K | ~$25.8 | Super Promo |
+| 🏷️ 3 Tahun | 650K | ~$42.0 | Super Promo |
 
 ---
 
