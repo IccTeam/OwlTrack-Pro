@@ -40,7 +40,7 @@ Dapatkan akses penuh ke fitur premium dan tools OSINT terbaik.
 Khusus pembelian paket **PER TAHUN**, kamu akan mendapatkan:
 
 - 🔑 Membership **OwlTrack Prem Tools**
-- 🤖 Akses **Bot Premium**
+- 🤖 Akses **Bot Premium** *(⚠️ Currently Under Maintenance)*
 - 🚀 Full Access **OwlTrack Pro**
 
 > Paket paling worth it untuk penggunaan jangka panjang dan full fitur.
